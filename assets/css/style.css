@@ -19,7 +19,7 @@ h1, h2, h3, .navbar {font-family: var(--ff)}
 .wrap-1 .dropdown .dropdown-menu .dropdown-item{font: 600 18px/1.5 var(--ff); color: var(--blue);}
 .wrap-1 .dropdown-menu .dropdown-item:hover {border-radius: 10px;}
 .wrap-1 .dropdown-menu .dropdown-item:active {background: var(--white);}
-.hero-section {background: url(/assets/image/helpingwithboat.jpg); background-size: cover; padding: 160px 0 192px; position: relative;z-index: 1;}
+.hero-section {background: url(../image/helpingwithboat.jpg); background-size: cover; padding: 160px 0 192px; position: relative;z-index: 1;}
 .hero-section::before {  
 content: "";
   position: absolute;
@@ -76,7 +76,7 @@ content: "";
 
 .wrap-4{padding: 96px 0; background-image: radial-gradient( circle 400px at 6.8% 8.3%,  rgba(255,244,169,1) 0%, rgba(255,244,234,1) 100.2% );}
 .wrap-4 .link-btn{color: var(--blue);border-bottom: 2px solid var(--blue);}
-.wrap-4 .news-1{background: url(/assets/image/news1.png); background-size: cover; border-radius: 15px; padding-top: 70px; position: relative; z-index: 1;}
+.wrap-4 .news-1{background: url(../image/news1.png); background-size: cover; border-radius: 15px; padding-top: 70px; position: relative; z-index: 1;}
 .wrap-4 .news-1::after {  
 content: "";
   position: absolute;
@@ -108,7 +108,7 @@ content: "";
 
 /* Our Story */
 .wrap-1 .other-navbar{background: transparent;}
-.hero-small{background: url(/assets/image/RamgarhiaSabha.jpg); background-size: cover; background-position: center; position: relative; z-index: 1;}
+.hero-small{background: url(../image/RamgarhiaSabha.jpg); background-size: cover; background-position: center; position: relative; z-index: 1;}
 .hero-small .social-share a{color: var(--white); font-size: 32px; display: inline-block; margin-right: 10px;}
 .hero-small{padding: 160px 0;}
 .hero-small .main-heading{padding-top: 98px;}
@@ -132,10 +132,10 @@ content: "";
 .wrap-14{padding: 96px 0; background-color: var(--light-white);}
 
 /* Our Team */
-.ourTeam{background: url(/assets/image/ourTeam.jpg); background-size: cover; background-position: center;}
+.ourTeam{background: url(../image/ourTeam.jpg); background-size: cover; background-position: center;}
 
 /* get-in-touch */
-.get-in-touch{background: url(/assets/image/get-in-touch.jpg); background-size: cover; background-position: center;}
+.get-in-touch{background: url(../image/get-in-touch.jpg); background-size: cover; background-position: center;}
 
 .wrap-15{padding: 96px 0; background-color: var(--white);}
 .main-address{padding: 48px; background-color: var(--white); box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px; border-radius: 15px;}
@@ -151,7 +151,7 @@ content: "";
 .wrap-16 .main-address .addinfo{font: 500 24px var(--inter); color: var(--dark-gray);}
 .wrap-16 .addinfoData{color: var(--blue); margin-left: 10px;}
 
-.wrap-5{background: url(/assets/image/make-an-impact.jpg); background-size: cover; padding: 96px 20px 224px; position: relative; z-index: 1;}
+.wrap-5{background: url(../image/make-an-impact.jpg); background-size: cover; padding: 96px 20px 224px; position: relative; z-index: 1;}
 .wrap-5::after {  
 content: "";
   position: absolute;
@@ -175,18 +175,18 @@ content: "";
 .donation .street-address{font: 400 16px var(--inter); color: var(--dark-gray);}
 
 /* what-We-Do */
-.what-We-Do{background: url(/assets/image/what-we-do.jpg); background-size: cover; background-position: center;}
+.what-We-Do{background: url(../image/what-we-do.jpg); background-size: cover; background-position: center;}
 .wrap-17 {padding: 0 0 96px 0; color: var(--white);}
 
 /* Who-we-are */
-.who-we-are{background: url(/assets/image/who-we-are.jpg); background-size: cover; background-position: center;}
+.who-we-are{background: url(../image/who-we-are.jpg); background-size: cover; background-position: center;}
 
 /* How-to-help */
-.how-to-help{background: url(/assets/image/how-to-help.jpg); background-size: cover; background-position: center;}
+.how-to-help{background: url(../image/how-to-help.jpg); background-size: cover; background-position: center;}
 .volunteer{font: 700 18px/1.5 var(--inter); color: var(--black);}
 
 /* privacy-policy */
-.privacy-policy{background: url(/assets/image/policy.jpg); background-size: cover; background-position: center;}
+.privacy-policy{background: url(../image/policy.jpg); background-size: cover; background-position: center;}
 .policy{padding: 96px 0 24px; background-color: var(--white);}
 .privacy{padding: 0 0 96px; background-color: var(--white);}
 .policy .para, .privacy .para{font: 400 18px/1.5 var(--inter); color: var(--dark-gray);}
@@ -194,12 +194,12 @@ content: "";
 .list{font: 500 16px var(--ff); color: var(--gray);}
 
 /* terms-conditions */
-.terms-conditions{background: url(/assets/image/terms-conditions.jpg); background-size: cover; background-position: center;}
+.terms-conditions{background: url(../image/terms-conditions.jpg); background-size: cover; background-position: center;}
 .conditions{padding: 96px 0; background-color: var(--white);}
 .conditions .para{color: var(--dark-gray);}
 
 /* Dialysis Room */
-.dialysisRoom{background: url(/assets/image/dialysisRoom.png); background-size: cover; background-position: center;}
+.dialysisRoom{background: url(../image/dialysisRoom.png); background-size: cover; background-position: center;}
 .dialysisRoom img{vertical-align: middle;}
 .dialysis-center{padding: 96px 0; background-color: var(--white);}
 .dialysis-center .date{font: 400 18px var(--inter); color: var(--gray);}
@@ -207,12 +207,12 @@ content: "";
 .dialysis-center .head-of-operation{font: 500 16px var(--ff); color: var(--black);}
 
 /* honiring */
-.honiring{background: url(/assets/image/news2.jpg); background-size: cover; background-position: center;}
+.honiring{background: url(../image/news2.jpg); background-size: cover; background-position: center;}
 .honiring img{vertical-align: middle;}
 
 /* panjabFloods */
-.panjabFloods{background: url(/assets/image/panjabFloods.png); background-size: cover; background-position: center;}
-.flood-section{background: url(/assets/image/news1.png); background-size: cover;}
+.panjabFloods{background: url(../image/panjabFloods.png); background-size: cover; background-position: center;}
+.flood-section{background: url(../image/news1.png); background-size: cover;}
 
 /* Slider */
 .Slider{background-color: var(--light-white); padding: 60px 0;}
@@ -233,15 +233,15 @@ content: "";
 .name-text{font: 600 16px var(--ff); color: var(--black); margin: 16px 0;}
 
 /* Manitoba Gov */
-.manitobaGov{background: url(/assets/image/RamgarhiaConfrence.jpg); background-size: cover; background-position: center;}
+.manitobaGov{background: url(../image/RamgarhiaConfrence.jpg); background-size: cover; background-position: center;}
 .manitobaGov img {vertical-align: middle;}
 
 /* Forefront */
-.forefront{background: url(/assets/image/panjabFloods.png); background-size: cover; background-position: center;}
+.forefront{background: url(../image/panjabFloods.png); background-size: cover; background-position: center;}
 .forefront img {vertical-align: middle;}
 
 /* Recent News */
-.recentNews{background: url(/assets/image/Cleanwater.jpg); background-size: cover; background-position: center;}
+.recentNews{background: url(../image/Cleanwater.jpg); background-size: cover; background-position: center;}
 .all-news{padding: 96px 0; background-color: var(--light-white);}
 .black-heading{font: 400 22px var(--inter); color: var(--black);}
 .all-news .para { color: var(--dark-gray); margin: 22px 0; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; text-overflow: ellipsis;}
@@ -251,7 +251,7 @@ content: "";
 .all-news .news-right-section{width: 100%; height: 650px; overflow-y: scroll; padding: 0 0 0 54px;}
 
 /* All Projects */
-.ourProjects{background: url(/assets/image/RamgarhiaSabhaChandigarh.jpg); background-size: cover; background-position: center;}
+.ourProjects{background: url(../image/RamgarhiaSabhaChandigarh.jpg); background-size: cover; background-position: center;}
 .allProjects{padding: 96px 0; background-color: var(--light-white);}
 .allProjects .card { position: relative; overflow: hidden; border-radius: 15px;}
 .allProjects .card-img { display: block; width: 100%; height: auto;}
@@ -270,7 +270,7 @@ content: "";
 .allProjects .card-link{font: 500 18px var(--ff); color: var(--white); border-bottom: 2px solid var(--white);}
 
 /* Our Partnerships */
-.ourPartnerships{background: url(/assets/image/partner.jpg); background-size: cover; background-position: center;}
+.ourPartnerships{background: url(../image/partner.jpg); background-size: cover; background-position: center;}
 
 /* Get-involed from index page */
 .get-involed{padding: 96px 0; background-color: var(--light-white);}
@@ -280,20 +280,20 @@ content: "";
 .get-involed .card:hover img {transform: scale(1.05);}
 
 /* Purpose */
-.purpose{background: url(/assets/image/Fellowship.jpg); background-size: cover; background-position: center;}
+.purpose{background: url(../image/Fellowship.jpg); background-size: cover; background-position: center;}
 
 /* Events */
 .events{background: url(../image/event/event36.jpg); background-size: cover; background-position: center;}
 .get-involed.event{background-color: var(--white);}
 
 /* Banquet Hall */
-.banquetHall{background: url(/assets/image/Banquet1.png); background-size: cover; background-position: center;}
+.banquetHall{background: url(../image/Banquet1.png); background-size: cover; background-position: center;}
 
 /* Rooms */
-.rooms{background: url(/assets/image/Room1.jpg); background-size: cover; background-position: center;}
+.rooms{background: url(../image/Room1.jpg); background-size: cover; background-position: center;}
 
 /* Conference Hall */
-.conferenceHall{background: url(/assets/image/Confrenceroom.jpg); background-size: cover; background-position: center;}
+.conferenceHall{background: url(../image/Confrenceroom.jpg); background-size: cover; background-position: center;}
 
 /* enquri */
 .enquri{font: 600 18px var(--ff); color: var(--blue);}
@@ -304,16 +304,16 @@ content: "";
 .gallery:hover img{transform: scale(1.1);}
 
 /* school */
-.school{background: url(/assets/image/School.jpg); background-size: cover; background-position: center;}
+.school{background: url(../image/School.jpg); background-size: cover; background-position: center;}
 
 /* OPD */
-.opd{background: url(/assets/image/medical.JPG); background-size: cover; background-position: center;}
+.opd{background: url(../image/medical.JPG); background-size: cover; background-position: center;}
 
 /* Skills */
-.skills{background: url(/assets/image/Skills.jpg); background-size: cover; background-position: center;}
+.skills{background: url(../image/Skills.jpg); background-size: cover; background-position: center;}
 
 /* Upcoming Project */
-.upcomingProject{background: url(/assets/image/Project.jpg); background-size: cover; background-position: center;}
+.upcomingProject{background: url(../image/Project.jpg); background-size: cover; background-position: center;}
 
 
 /* waves */
